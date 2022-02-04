@@ -9,15 +9,23 @@
 2. Use the same algorithms you have implemented in #1 to accept an expression (this time variables are actual numbers) and evaluate them to give the final answer. For clarity purposes, separate each token with a space. Also, assume that user may input erroneous expressions, so include exception handling in your implementation
 
 ### ☑️ Scope of Work
-I have written all of the code from my machine problem, with some of the source code & algorithm adopted/inspired from the Internet. Here they are to be specific:
+I have written all of the code from my machine problem, with some of the code & algorithm adopted/inspired from the Internet. Here they are to be specific:
 
 #### for chico_mp4_1.py
-- `Stack()` - implemented by myself based on my past data structure lessons
+- `Stack()` - implemented by myself based on my past DS lessons
 - `isOperator()`, `isOperand()` - implemented by myself
-- 
+- `getPrec()`, `compPrec()` - written by myself, algo from 
+- `infixToPostFix()` - written by myself, algo from
+- `infixToPrefix()` - written by myself, algo from
+- `postfixToInfix()` - written by myself, algo from
+- `prefixToInfix()` - written by myself, algo from
+- `postfixToPrefix()`, `prefixToPostfix()` - implemented by myself
+- `Converter()` - implemented by myself
 
 #### for chico_mp4_2.py
 
+#### for chico_mp4_main.py
+- I made everything in this python file
 
 ### ☑️ References
 
