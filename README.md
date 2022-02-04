@@ -14,20 +14,20 @@ I have written all of the code from my machine problem, with some of the code & 
 #### for chico_mp4_1.py
 - `Stack()` - implemented by myself based on my past DS lessons
 - `isOperator()`, `isOperand()` - implemented by myself
-- `getPrec()`, `compPrec()` - written by myself, algo & implementation mycodeschool
+- `getPrec()`, `compPrec()` - written by myself, algo & implementation from mycodeschool
 - `infixToPostFix()` - written by myself, algo & implementation from mycodeschool
-- `infixToPrefix()` - written by myself, algo from
+- `infixToPrefix()` - written by myself, algo from , implementation from mycodeschool (it uses the same algo as `infixToPostFix()`
 - `postfixToInfix()` - written by myself, algo from
 - `prefixToInfix()` - written by myself, algo from
 - `postfixToPrefix()`, `prefixToPostfix()` - implemented by myself
 - `Converter()` - implemented by myself
 
 #### for chico_mp4_2.py
-- Some of the classes & functions are borrowed from chico_mp4_1.py
+- Some of the classes/functions are borrowed from chico_mp4_1.py
 - `infixToPostFix()` - written by myself, algo & implementation from mycodeschool
 - `infixToPrefix()` - written by myself, 
 - `prefixToPostfix()` - written by myself, 
-- `Evaluator()` - written by myself
+- `Evaluator()` - written by myself,
 
 #### for chico_mp4_main.py
 - I made everything in this python file
@@ -38,4 +38,4 @@ I have written all of the code from my machine problem, with some of the code & 
 2. YouTube. (2013). Evaluation of Prefix and Postfix expressions using stack. YouTube. Retrieved December 13, 2021, from https://www.youtube.com/watch?v=MeRb_1bddWg&amp;list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&amp;index=20. 
 3. YouTube. (2013). Infix to Postfix using stack. YouTube. Retrieved December 13, 2021, from https://www.youtube.com/watch?v=vq-nUF0G4fI&amp;list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&amp;index=21. 
 4. Infix, Prefix and Postfix Expressions. (n.d.). 4.9. Infix, Prefix and Postfix Expressions - Problem Solving with Algorithms and Data Structures. Retrieved December 13, 2021, from https://runestone.academy/runestone/books/published/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html. 
-5. Infix, postfix, and prefix conversion. Coding Ninjas Blog. (2021, September 10). Retrieved
+5. Infix, postfix, and prefix conversion. Coding Ninjas Blog. (2021, September 10). Retrieved December 13, 2021, from https://www.codingninjas.com/blog/2021/09/06/infix-postfix-and-prefix-conversion/.
