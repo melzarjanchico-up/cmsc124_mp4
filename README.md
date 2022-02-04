@@ -1,6 +1,6 @@
 # CMSC124 MP4: Expressions
 **Name**: Melzar Jan E. Chico  
-**Year & Section**: BS ComSci III - CMSC110B  
+**Year & Section**: BS ComSci III - CMSC 124B  
 **Date**: 18 December 2021
 
 ### ☑️ Instructions
@@ -9,10 +9,12 @@
 2. Use the same algorithms you have implemented in #1 to accept an expression (this time variables are actual numbers) and evaluate them to give the final answer. For clarity purposes, separate each token with a space. Also, assume that user may input erroneous expressions, so include exception handling in your implementation
 
 ### ☑️ Scope of Work
-I written all of the code from my machine problem, with some of the source code adopted/inspired from the
-Internet. Here they are to be specific:
+I have written all of the code from my machine problem, with some of the source code & algorithm adopted/inspired from the Internet. Here they are to be specific:
 
 #### for chico_mp4_1.py
+- `Stack()` - implemented by myself based on my past data structure lessons
+- `isOperator()`, `isOperand()` - implemented by myself
+- 
 
 #### for chico_mp4_2.py
 
