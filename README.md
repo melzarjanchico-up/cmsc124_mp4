@@ -14,8 +14,8 @@ I have written all of the code from my machine problem, with some of the code & 
 #### for chico_mp4_1.py
 - `Stack()` - implemented by myself based on my past DS lessons
 - `isOperator()`, `isOperand()` - implemented by myself
-- `getPrec()`, `compPrec()` - written by myself, algo from 
-- `infixToPostFix()` - written by myself, algo from
+- `getPrec()`, `compPrec()` - written by myself, algo & implementation mycodeschool
+- `infixToPostFix()` - written by myself, algo & implementation from mycodeschool
 - `infixToPrefix()` - written by myself, algo from
 - `postfixToInfix()` - written by myself, algo from
 - `prefixToInfix()` - written by myself, algo from
@@ -23,6 +23,11 @@ I have written all of the code from my machine problem, with some of the code & 
 - `Converter()` - implemented by myself
 
 #### for chico_mp4_2.py
+- Some of the classes & functions are borrowed from chico_mp4_1.py
+- `infixToPostFix()` - written by myself, algo & implementation from mycodeschool
+- `infixToPrefix()` - written by myself, 
+- `prefixToPostfix()` - written by myself, 
+- `Evaluator()` - written by myself
 
 #### for chico_mp4_main.py
 - I made everything in this python file
