@@ -1,11 +1,11 @@
 """
-    FILE:       chico_mp4_main.py
-    ABOUT:      An implementation that evaluates an infix, prefix, or postfix notaition.
+FILE:       chico_mp4_main.py
+ABOUT:      An implementation that evaluates an infix, prefix, or postfix notaition.
 
-    NAME:       Melzar Jan E. Chico
-    COURSE:     CMSC124 B
-    DATE:       18 December 2021
-    TASK:       Machine Problem 4 - Expressions
+NAME:       Melzar Jan E. Chico
+COURSE:     CMSC124 B
+DATE:       18 December 2021
+TASK:       Machine Problem 4 - Expressions
 """
 
 from chico_mp4_1 import Converter
