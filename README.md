@@ -10,7 +10,11 @@
 
 ### Scope of Work
 I written all of the code from my machine problem, with some of the source code adopted/inspired from the
-Internet. Here they are to be specific
+Internet. Here they are to be specific:
+
+#### for chico_mp4_1.py
+
+#### for chico_mp4_2.py
 
 
 ### References
